@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
+    <fullyQualifiedTypeName name="UniversitySystem.Message"/>
+    <fullyQualifiedTypeName name="UniversitySystem.Book"/>
+    <fullyQualifiedTypeName name="UniversitySystem.News"/>
+    <fullyQualifiedTypeName name="Enums.Faculty"/>
+    <fullyQualifiedTypeName name="enums.Faculty"/>
+    <fullyQualifiedTypeName name="java.awt.Window.Type"/>
+    <fullyQualifiedTypeName name="enums.TypeOfLesson"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="users.Employee"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="users.Manager"/>
+    <fullyQualifiedTypeName name="users.Student"/>
+    <fullyQualifiedTypeName name="users.Teacher"/>
+</qualifiedTypeNameHistroy>

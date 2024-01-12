@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/Users/aruzhankaharmanova/Desktop/oop/.metadata/.plugins/org.eclipse.jdt.core
+1076319632.index
+1488323371.index
+1865797976.index
+3935963676.index
+161258443.index
+1191005159.index

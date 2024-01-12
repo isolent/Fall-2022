@@ -1,0 +1,106 @@
+--=( ERRORS )=--
+
+Result Report:
+
+	Operation replaceAll(String, String) is undefined on type null.
+
+	Operation replace(String, String) is undefined on type null.
+
+	Operation replaceAll(String, String) is undefined on type org.eclipse.ocl.ecore.internal.OCLStandardLibraryImpl$1.
+
+
+
+--=( WARNINGS )=--
+
+Result Report:
+
+	EvaluationException: Undefined "Let" expression at line 143 in Module advancedUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@317b9e7f (name: operation, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at advancedUML2java.generate(Operation)(advancedUML2Java.mtl:143)
+	at advancedUML2java.generate(Operation)(advancedUML2Java.mtl:142)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:0)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:0)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:42)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:16)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:13)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:11)
+
+
+	EvaluationException: Undefined "Let" expression at line 143 in Module advancedUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@5766d786 (name: createUser, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at advancedUML2java.generate(Operation)(advancedUML2Java.mtl:143)
+	at advancedUML2java.generate(Operation)(advancedUML2Java.mtl:142)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:0)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:0)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:42)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:16)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:13)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:11)
+
+
+	EvaluationException: Undefined "Let" expression at line 143 in Module advancedUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@302554b1 (name: pushUser, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at advancedUML2java.generate(Operation)(advancedUML2Java.mtl:143)
+	at advancedUML2java.generate(Operation)(advancedUML2Java.mtl:142)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:0)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:0)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:42)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:16)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:13)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:11)
+
+
+	EvaluationException: Undefined "Let" expression at line 143 in Module advancedUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@3d6a8584 (name: getNews, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at advancedUML2java.generate(Operation)(advancedUML2Java.mtl:143)
+	at advancedUML2java.generate(Operation)(advancedUML2Java.mtl:142)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:0)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:0)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:42)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:16)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:13)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:11)
+
+
+	EvaluationException: Undefined "Let" expression at line 143 in Module advancedUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@1b6aa510 (name: addBook, visibility: <unset>) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at advancedUML2java.generate(Operation)(advancedUML2Java.mtl:143)
+	at advancedUML2java.generate(Operation)(advancedUML2Java.mtl:142)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:0)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:0)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:42)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:16)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:13)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:11)
+
+
+	EvaluationException: Undefined "Let" expression at line 143 in Module advancedUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@2b1ce7de (name: removeBook, visibility: <unset>) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at advancedUML2java.generate(Operation)(advancedUML2Java.mtl:143)
+	at advancedUML2java.generate(Operation)(advancedUML2Java.mtl:142)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:0)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:0)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:42)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:16)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:13)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:11)
+
+
+	EvaluationException: Undefined "Let" expression at line 143 in Module advancedUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@606e7cea (name: acceptBook, visibility: <unset>) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at advancedUML2java.generate(Operation)(advancedUML2Java.mtl:143)
+	at advancedUML2java.generate(Operation)(advancedUML2Java.mtl:142)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:0)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:0)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:42)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:16)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:13)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:11)
+
+
+	EvaluationException: Undefined "Let" expression at line 143 in Module advancedUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@64958718 (name: rejectBook, visibility: <unset>) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at advancedUML2java.generate(Operation)(advancedUML2Java.mtl:143)
+	at advancedUML2java.generate(Operation)(advancedUML2Java.mtl:142)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:0)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:0)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:42)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:16)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:13)
+	at advancedUML2java.generate(Class)(advancedUML2Java.mtl:11)
+
+
+
+
